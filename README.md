@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+What the hell is this!
+
+Hello everyone, we're using the web 2.0!
+
